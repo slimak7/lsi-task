@@ -1,0 +1,12 @@
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\bin\Debug\Database\reportsDB.mdf
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\bin\Debug\Database\reportsDB_log.ldf
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\bin\Debug\TaskReport.exe.config
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\bin\Debug\TaskReport.exe
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\bin\Debug\TaskReport.pdb
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.csproj.AssemblyReference.cache
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.MainForm.resources
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.Properties.Resources.resources
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.csproj.GenerateResource.cache
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.csproj.CoreCompileInputs.cache
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.exe
+C:\Users\SzymonKlewicki\source\repos\lsi-task\TaskReport\obj\Debug\TaskReport.pdb
